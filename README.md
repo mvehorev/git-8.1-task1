@@ -1,4 +1,2 @@
-# git-8.1-task1
-
-comment from file
+This file was created to test git integration
 
